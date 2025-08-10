@@ -1,3 +1,7 @@
 <h1> Sistemade registro</h1>
 
--Estado del proyectyo: En construccion
+-Estado del proyectyo: En construccion.
+
+para ejecutar el sistema debes poner:
+
+
